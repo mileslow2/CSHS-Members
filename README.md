@@ -1,8 +1,9 @@
 Template:
 print(“Hello, word. name_here year_here”) #CSHS member
 
-2019-2020:
 ```
+// 2019-2020:
+
 Debug.Log(“Hello, World - Rylan Daniels 2020”); //CSHS President
 
 console.log(“Hello World - Miles Low 2021”); //CSHS Officer
