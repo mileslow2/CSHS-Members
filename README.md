@@ -1,5 +1,7 @@
 Template:
+```python
 print(“Hello, word. name_here year_here”) #CSHS member
+```
 
 ```
 // 2019-2020:
