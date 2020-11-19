@@ -3,12 +3,6 @@ Template:
 print(“Hello, world. name_here year_here”) #CSHS member
 ```
 
-### 2020-2021
-```
-print("Hello, world - Miles Low 2021"); //CSHS President
-```
-
-
 ### 2019-2020:
 ```
 Debug.Log(“Hello, World - Rylan Daniels 2020”); //CSHS President
