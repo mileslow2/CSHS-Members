@@ -1,6 +1,11 @@
 Template:
 ```python
-print(“Hello, word. name_here year_here”) #CSHS member
+print(“Hello, world. name_here year_here”) #CSHS member
+```
+
+### 2020-2021
+```
+print("Hello, world - Miles Low 2021"); //CSHS President
 ```
 
 
